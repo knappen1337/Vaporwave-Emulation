@@ -5,7 +5,7 @@ Repository for obscure server files and emulating softare both created by others
 Welcome to the repository for obscure server files and emulation software. This collection includes a variety of resources created both by me and by other talented developers in the community.
 
 Contents
-This repository features server files and emulation software for several old & oobscure popular games, including:
+This repository features server files and emulation software for several old & obscure popular games, including:
 
 Twelve Sky 1
 Twelve Sky 2
